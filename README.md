@@ -1,16 +1,8 @@
-# hervest
+# simple delete
 
-A new Flutter project.
+A new Flutter app.
 
-## Getting Started
+## We on a journey of understanding.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![delete](https://user-images.githubusercontent.com/47517623/141533237-6f93ec28-7fd4-4266-87b7-0c7698e3a477.png)
